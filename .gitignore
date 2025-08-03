@@ -1,0 +1,21 @@
+# This is a comment in the .gitignore file
+# Ignore build directories
+RandomTextGenerator/bin/
+RandomTextGenerator/obj/
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
